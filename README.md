@@ -30,3 +30,13 @@ The data and statistical scripts used in the analysis are not publicly available
 
 📄 **Full thesis (PDF):**  
 [Download the thesis](Thesis_Francesca_Rosales.pdf)
+
+
+## Author background
+
+Alongside my work in data analysis and social research, I maintain a personal blog
+focused on essays and critical reflections on public policy, gender, and social issues.
+
+This writing practice complements my analytical work and informs my research perspective.
+
+🔗 https://paginas-del-alma.blogspot.com/
