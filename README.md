@@ -27,3 +27,6 @@ These results suggest that gender inequality persists not only in access to poli
 
 This repository contains the final written version of the research paper.  
 The data and statistical scripts used in the analysis are not publicly available.
+
+📄 **Full thesis (PDF):**  
+[Download the thesis](Thesis_Francesca_Rosales.pdf)
